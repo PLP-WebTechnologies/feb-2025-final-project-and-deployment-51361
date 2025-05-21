@@ -22,4 +22,12 @@ Create a well-structured HTML5 document.
 Use at least 5 different HTML elements.
 Ensure semantic correctness.
 
+
+Blog Website: Implement a multi-page site with navigation.
+
+
+
+
+
+
 Good luck and happy coding! 🚀💻
